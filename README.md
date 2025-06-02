@@ -1,4 +1,4 @@
-# 🧠 Racism Exposure Estimator
+# Racism Exposure Estimator
 
 Using **machine learning**, we've developed a predictive model that estimates an individual's likelihood of facing discrimination.  
 The goal is **not** to promote division, but to **raise awareness** and provoke thoughtful discussion about unconscious bias and systemic inequities.
@@ -14,7 +14,7 @@ We emphasize: the model reflects observable **trends**, not **moral truths**, an
 
 ---
 
-## ⚠️ Disclaimer
+## Disclaimer
 
 > **This is a delicate topic.**  
 > We urge all users to approach this tool with **empathy**, **humility**, and **understanding**.  
@@ -22,7 +22,7 @@ We emphasize: the model reflects observable **trends**, not **moral truths**, an
 
 ---
 
-## 🧬 Key Features Used in Prediction
+## Key Features Used in Prediction
 
 - **Skin tone**, **nationality**, and **accent** were found to be the **strongest influencing factors**.
 - Additional features include:
@@ -35,7 +35,7 @@ We emphasize: the model reflects observable **trends**, not **moral truths**, an
 
 ---
 
-## 🛡️ Ethical Considerations
+## Ethical Considerations
 
 - No **personal** or **sensitive** real-user data was used.
 - The model runs in a **simulated environment** purely for **educational** and **awareness-raising** purposes.
@@ -43,18 +43,18 @@ We emphasize: the model reflects observable **trends**, not **moral truths**, an
 
 ---
 
-## 🚀 Try It Yourself
+## Try It Yourself
 
 A Streamlit web app allows users to experiment with input features and view how the model responds.  
 You can access the deployed app and explore how various combinations affect the predicted exposure score.
 
 ---
 
-## 🤝 Connect with the Developer
+## Connect with the Developer
 
-[🌐 GitHub](https://github.com/Arhamhir) | [🔗 LinkedIn](https://www.linkedin.com/in/arham-tahir-95626a28a/)
+[GitHub](https://github.com/Arhamhir) | [LinkedIn](https://www.linkedin.com/in/arham-tahir-95626a28a/)
 
 ---
 
-> 💬 If you have feedback, concerns, or want to collaborate on improving fairness in AI, feel free to reach out.
+> If you have feedback, concerns, or want to collaborate on improving fairness in AI, feel free to reach out.
 
