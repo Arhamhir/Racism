@@ -1,0 +1,501 @@
+skin_tone,accent,nationality,originated_in,hair_texture,BMI,religious_symbol_visible,fashion_style,gender_presentation,racism_exposure_score
+Fair,British,Germany,Nigeria,Wavy,24.2,Yes,Casual,Feminine,24.0
+Brown,American,India,China,Curly,15.6,No,Modern,Masculine,55.8
+Very Fair,British,Germany,Mexico,Curly,29.3,No,Streetwear,Androgynous,26.3
+Brown,American,Germany,Pakistan,Curly,32.6,No,Streetwear,Feminine,35.1
+Fair,Indian,Mexico,Germany,Wavy,30.8,Yes,Modern,Masculine,77.4
+Dark,African,UK,China,Wavy,27.3,Yes,Formal,Feminine,42.7
+Fair,African,India,Germany,Kinky,19.2,Yes,Traditional,Androgynous,90.2
+Fair,British,UK,China,Kinky,37.1,No,Casual,Androgynous,38.5
+Dark,Spanish,UK,UK,Curly,34.2,Yes,Streetwear,Feminine,65.5
+Fair,American,UK,Mexico,Straight,38.6,Yes,Formal,Androgynous,30.0
+Fair,African,USA,Germany,Kinky,26.6,No,Casual,Feminine,46.0
+Very Fair,Indian,Pakistan,UK,Wavy,18.1,No,Modern,Non-Conforming,71.8
+Fair,African,USA,Mexico,Wavy,21.1,Yes,Casual,Androgynous,45.0
+Medium,Spanish,Pakistan,Mexico,Wavy,28.9,Yes,Streetwear,Androgynous,63.7
+Medium,Chinese,UK,Germany,Kinky,33.3,No,Traditional,Non-Conforming,72.2
+Fair,African,Mexico,Pakistan,Kinky,22.3,Yes,Casual,Androgynous,78.4
+Brown,Indian,Mexico,Germany,Wavy,38.2,No,Formal,Feminine,82.0
+Dark,Chinese,USA,Mexico,Wavy,25.3,Yes,Modern,Feminine,48.8
+Fair,Indian,USA,Nigeria,Curly,36.0,No,Formal,Androgynous,56.8
+Very Fair,Chinese,India,India,Curly,16.6,Yes,Modern,Feminine,76.7
+Fair,Spanish,China,USA,Kinky,36.0,Yes,Traditional,Androgynous,88.1
+Medium,Spanish,Germany,Mexico,Kinky,16.2,No,Casual,Non-Conforming,45.5
+Very Fair,African,China,USA,Kinky,26.0,Yes,Formal,Non-Conforming,81.2
+Dark,American,USA,Mexico,Straight,16.7,No,Casual,Feminine,23.9
+Medium,British,India,UK,Wavy,22.3,No,Modern,Non-Conforming,61.1
+Fair,American,China,Mexico,Straight,17.6,Yes,Formal,Feminine,34.3
+Very Fair,African,Mexico,Germany,Kinky,31.9,Yes,Formal,Androgynous,89.6
+Dark,African,USA,China,Wavy,15.2,No,Formal,Androgynous,55.4
+Brown,American,UK,Nigeria,Kinky,33.0,Yes,Modern,Masculine,47.8
+Medium,American,UK,China,Wavy,39.0,No,Casual,Feminine,21.3
+Brown,American,UK,USA,Curly,21.5,Yes,Modern,Non-Conforming,62.2
+Medium,Spanish,UK,Nigeria,Wavy,32.8,Yes,Casual,Feminine,37.7
+Medium,Spanish,Pakistan,China,Wavy,16.0,No,Traditional,Androgynous,65.0
+Fair,British,India,Mexico,Wavy,19.4,Yes,Formal,Masculine,35.1
+Fair,Chinese,Nigeria,India,Straight,31.6,Yes,Traditional,Androgynous,92.4
+Brown,Indian,Nigeria,UK,Kinky,36.4,Yes,Modern,Feminine,100.0
+Fair,British,India,USA,Wavy,17.7,Yes,Streetwear,Feminine,59.6
+Brown,British,India,Germany,Curly,22.9,No,Modern,Androgynous,67.2
+Brown,African,Pakistan,USA,Kinky,25.7,Yes,Traditional,Masculine,97.8
+Brown,British,India,Germany,Kinky,24.8,No,Streetwear,Non-Conforming,72.8
+Fair,African,Germany,Pakistan,Curly,39.0,No,Casual,Masculine,39.6
+Brown,Spanish,USA,UK,Straight,15.1,Yes,Casual,Feminine,51.3
+Medium,British,India,Nigeria,Curly,30.2,No,Formal,Non-Conforming,65.3
+Dark,Spanish,Germany,USA,Kinky,32.1,Yes,Casual,Androgynous,82.6
+Brown,American,Mexico,India,Wavy,15.2,Yes,Formal,Androgynous,76.4
+Very Fair,Chinese,Pakistan,Pakistan,Curly,21.5,No,Streetwear,Non-Conforming,69.3
+Dark,African,China,China,Kinky,31.0,Yes,Casual,Feminine,72.0
+Medium,Spanish,China,Germany,Curly,25.6,No,Formal,Masculine,56.5
+Brown,Spanish,India,Nigeria,Curly,26.6,No,Streetwear,Masculine,59.6
+Very Fair,American,Mexico,Germany,Kinky,21.6,No,Casual,Non-Conforming,63.1
+Very Fair,African,Nigeria,Nigeria,Kinky,32.6,No,Formal,Non-Conforming,76.9
+Medium,British,Mexico,Germany,Kinky,27.0,Yes,Streetwear,Non-Conforming,78.9
+Medium,African,India,Germany,Curly,21.6,No,Streetwear,Feminine,70.0
+Fair,Chinese,China,China,Kinky,39.4,No,Streetwear,Masculine,56.9
+Fair,Spanish,Nigeria,China,Wavy,29.9,Yes,Modern,Non-Conforming,64.7
+Medium,American,India,Germany,Curly,37.8,No,Traditional,Masculine,69.6
+Dark,Indian,Mexico,Germany,Straight,21.3,No,Casual,Non-Conforming,81.3
+Very Fair,British,Pakistan,Pakistan,Kinky,27.8,No,Traditional,Non-Conforming,55.7
+Brown,British,Nigeria,UK,Straight,29.2,No,Modern,Feminine,64.3
+Fair,Chinese,UK,India,Kinky,30.4,No,Casual,Feminine,64.7
+Very Fair,American,Germany,China,Curly,34.6,No,Casual,Feminine,22.7
+Brown,Chinese,Germany,USA,Wavy,22.3,Yes,Casual,Feminine,60.4
+Medium,Indian,Germany,China,Curly,29.3,No,Streetwear,Non-Conforming,48.1
+Brown,Indian,Germany,UK,Kinky,22.6,No,Streetwear,Feminine,65.8
+Very Fair,Spanish,China,Nigeria,Kinky,27.7,Yes,Casual,Androgynous,58.9
+Dark,Indian,Nigeria,UK,Straight,22.6,Yes,Casual,Feminine,90.6
+Dark,Spanish,China,Germany,Straight,22.1,No,Modern,Feminine,58.5
+Fair,African,China,USA,Wavy,34.3,No,Casual,Feminine,66.8
+Brown,Spanish,India,Pakistan,Wavy,15.2,Yes,Streetwear,Non-Conforming,75.5
+Very Fair,Spanish,India,UK,Curly,17.1,No,Modern,Feminine,61.0
+Brown,British,Mexico,India,Kinky,23.2,Yes,Formal,Feminine,78.1
+Very Fair,Chinese,India,Nigeria,Kinky,17.1,Yes,Streetwear,Androgynous,79.8
+Brown,Indian,China,Germany,Wavy,21.7,No,Casual,Feminine,66.3
+Dark,Spanish,Nigeria,USA,Curly,24.0,No,Formal,Masculine,79.4
+Medium,American,Pakistan,Nigeria,Straight,21.5,Yes,Casual,Masculine,43.1
+Medium,Indian,Mexico,China,Straight,30.6,Yes,Modern,Androgynous,81.9
+Fair,Spanish,India,USA,Curly,21.6,Yes,Traditional,Feminine,76.7
+Very Fair,American,USA,China,Straight,19.6,No,Casual,Feminine,4.5
+Dark,Indian,Pakistan,India,Curly,32.1,Yes,Modern,Masculine,91.7
+Fair,British,China,Pakistan,Wavy,37.0,No,Formal,Masculine,42.7
+Dark,Spanish,Mexico,Mexico,Straight,16.4,Yes,Formal,Masculine,64.5
+Medium,British,India,Germany,Wavy,25.6,No,Modern,Non-Conforming,62.0
+Dark,Indian,China,Germany,Straight,20.3,No,Traditional,Non-Conforming,86.3
+Medium,Chinese,Pakistan,Nigeria,Straight,32.1,No,Traditional,Masculine,66.8
+Brown,Indian,Pakistan,Germany,Straight,31.3,No,Formal,Non-Conforming,87.7
+Very Fair,British,Germany,India,Straight,34.0,Yes,Traditional,Androgynous,49.4
+Brown,Chinese,Mexico,India,Kinky,34.3,No,Casual,Androgynous,100.0
+Fair,Spanish,Nigeria,Mexico,Kinky,37.8,No,Formal,Non-Conforming,73.5
+Brown,Spanish,Nigeria,Mexico,Kinky,28.0,No,Casual,Androgynous,77.5
+Brown,African,Nigeria,Germany,Curly,17.7,No,Formal,Feminine,78.3
+Medium,American,Nigeria,USA,Wavy,29.0,Yes,Casual,Masculine,65.2
+Medium,British,China,Mexico,Curly,32.7,Yes,Modern,Non-Conforming,56.8
+Medium,African,China,Germany,Straight,21.5,No,Formal,Feminine,59.1
+Dark,Indian,Pakistan,USA,Kinky,35.4,Yes,Traditional,Feminine,100.0
+Medium,Chinese,Nigeria,India,Wavy,38.7,No,Casual,Masculine,86.3
+Very Fair,Spanish,USA,UK,Kinky,32.5,Yes,Streetwear,Masculine,51.0
+Dark,British,Nigeria,Pakistan,Wavy,33.2,No,Formal,Masculine,66.1
+Brown,Indian,Germany,UK,Kinky,18.0,Yes,Casual,Feminine,65.1
+Brown,American,USA,USA,Kinky,30.2,No,Casual,Androgynous,63.1
+Fair,American,Mexico,Germany,Curly,24.6,Yes,Modern,Feminine,59.7
+Medium,Indian,Pakistan,Pakistan,Curly,32.7,Yes,Streetwear,Non-Conforming,85.7
+Very Fair,Indian,Nigeria,UK,Curly,25.5,Yes,Casual,Feminine,75.6
+Very Fair,American,USA,UK,Wavy,17.9,No,Formal,Non-Conforming,39.4
+Dark,Chinese,Germany,India,Wavy,39.1,Yes,Modern,Androgynous,79.4
+Brown,American,USA,India,Curly,21.1,Yes,Traditional,Feminine,56.0
+Brown,Chinese,China,Pakistan,Wavy,15.7,Yes,Casual,Androgynous,73.1
+Fair,British,Germany,Germany,Kinky,19.0,No,Formal,Non-Conforming,44.8
+Medium,American,India,India,Curly,37.0,Yes,Modern,Non-Conforming,80.5
+Very Fair,Spanish,Nigeria,UK,Kinky,35.6,No,Streetwear,Non-Conforming,82.5
+Medium,British,Mexico,Pakistan,Wavy,16.9,No,Casual,Non-Conforming,64.7
+Brown,Spanish,China,Mexico,Wavy,19.1,Yes,Casual,Androgynous,57.1
+Brown,Spanish,Mexico,USA,Kinky,16.8,No,Casual,Non-Conforming,95.3
+Dark,British,Pakistan,Germany,Kinky,22.4,Yes,Streetwear,Androgynous,84.5
+Fair,British,China,China,Wavy,37.8,Yes,Traditional,Masculine,45.6
+Brown,American,Germany,UK,Wavy,22.6,No,Modern,Non-Conforming,48.7
+Brown,American,Nigeria,India,Kinky,28.4,Yes,Streetwear,Androgynous,91.2
+Dark,American,USA,Pakistan,Straight,37.7,Yes,Traditional,Non-Conforming,58.3
+Brown,African,Germany,Mexico,Wavy,19.4,Yes,Formal,Feminine,34.6
+Very Fair,British,UK,Mexico,Wavy,26.6,Yes,Formal,Masculine,16.2
+Fair,British,Germany,Nigeria,Kinky,32.3,Yes,Casual,Androgynous,45.7
+Dark,African,Mexico,UK,Wavy,20.9,Yes,Streetwear,Androgynous,92.2
+Medium,African,Germany,Pakistan,Straight,32.7,Yes,Traditional,Feminine,53.3
+Dark,British,UK,China,Straight,28.4,Yes,Traditional,Androgynous,48.4
+Brown,African,UK,Pakistan,Straight,29.6,Yes,Formal,Feminine,43.7
+Dark,American,Mexico,Pakistan,Kinky,36.2,No,Streetwear,Non-Conforming,79.2
+Medium,Indian,India,Germany,Straight,24.0,Yes,Formal,Androgynous,85.1
+Dark,Chinese,Mexico,China,Straight,36.9,No,Casual,Feminine,71.7
+Medium,Indian,Mexico,UK,Wavy,31.2,Yes,Formal,Androgynous,89.0
+Medium,African,Nigeria,Mexico,Curly,16.2,No,Traditional,Non-Conforming,82.2
+Brown,Spanish,Germany,Pakistan,Kinky,28.8,Yes,Casual,Masculine,48.3
+Very Fair,African,India,China,Straight,19.9,Yes,Streetwear,Non-Conforming,57.4
+Brown,British,India,Mexico,Curly,36.1,Yes,Streetwear,Masculine,54.1
+Very Fair,African,India,China,Straight,20.8,Yes,Traditional,Feminine,48.6
+Dark,Chinese,India,UK,Kinky,33.0,No,Modern,Masculine,87.0
+Brown,Spanish,Pakistan,China,Straight,34.4,Yes,Streetwear,Masculine,61.9
+Brown,Chinese,China,Germany,Curly,23.7,Yes,Formal,Feminine,75.2
+Fair,British,Nigeria,Nigeria,Wavy,20.7,Yes,Formal,Non-Conforming,60.7
+Dark,Chinese,China,India,Curly,20.0,Yes,Streetwear,Masculine,80.2
+Very Fair,Chinese,China,USA,Wavy,15.2,Yes,Casual,Androgynous,81.3
+Medium,Chinese,Pakistan,Germany,Wavy,21.2,No,Formal,Androgynous,76.8
+Medium,Chinese,Pakistan,Mexico,Straight,19.3,Yes,Formal,Masculine,54.6
+Dark,American,Mexico,UK,Wavy,33.4,Yes,Modern,Masculine,76.7
+Dark,American,Germany,Pakistan,Straight,28.0,No,Traditional,Masculine,38.0
+Very Fair,American,UK,Mexico,Kinky,35.4,No,Streetwear,Masculine,27.7
+Medium,Chinese,UK,China,Wavy,20.6,Yes,Traditional,Non-Conforming,51.6
+Very Fair,American,Pakistan,Pakistan,Wavy,37.9,Yes,Traditional,Masculine,49.1
+Medium,Spanish,Pakistan,Mexico,Curly,29.3,Yes,Modern,Masculine,49.4
+Very Fair,Indian,India,China,Straight,19.3,Yes,Streetwear,Masculine,56.7
+Dark,American,Nigeria,India,Straight,37.3,Yes,Traditional,Non-Conforming,89.3
+Medium,Spanish,UK,Pakistan,Wavy,33.4,Yes,Traditional,Androgynous,57.0
+Brown,Chinese,China,China,Kinky,39.2,No,Casual,Masculine,72.0
+Fair,Indian,Mexico,USA,Wavy,37.1,No,Casual,Non-Conforming,92.9
+Dark,American,UK,Mexico,Curly,21.0,No,Casual,Androgynous,40.4
+Medium,Chinese,Pakistan,Germany,Curly,38.6,No,Traditional,Masculine,79.7
+Very Fair,Indian,Pakistan,Nigeria,Curly,27.3,No,Streetwear,Non-Conforming,67.3
+Fair,African,USA,China,Kinky,35.1,No,Casual,Androgynous,53.6
+Medium,Indian,Nigeria,India,Kinky,30.8,Yes,Traditional,Feminine,100.0
+Dark,British,China,Germany,Wavy,24.6,No,Traditional,Non-Conforming,72.7
+Brown,American,UK,Germany,Curly,25.0,No,Streetwear,Feminine,40.2
+Very Fair,British,Pakistan,India,Wavy,29.4,No,Casual,Feminine,45.4
+Medium,Chinese,Nigeria,China,Kinky,36.4,No,Streetwear,Masculine,72.5
+Fair,Indian,India,China,Straight,17.0,No,Casual,Androgynous,64.8
+Very Fair,British,Nigeria,UK,Straight,36.0,Yes,Casual,Non-Conforming,67.4
+Fair,African,USA,Nigeria,Wavy,19.6,Yes,Streetwear,Feminine,32.7
+Medium,Indian,Germany,USA,Straight,36.8,Yes,Casual,Masculine,57.7
+Medium,African,China,USA,Straight,27.8,No,Modern,Non-Conforming,71.6
+Dark,Spanish,China,India,Straight,29.1,Yes,Formal,Feminine,72.8
+Fair,Spanish,Nigeria,India,Wavy,39.5,No,Modern,Non-Conforming,77.2
+Fair,Chinese,UK,Nigeria,Straight,17.4,No,Traditional,Androgynous,56.0
+Very Fair,African,Mexico,Mexico,Curly,29.0,No,Streetwear,Non-Conforming,58.3
+Fair,Indian,Nigeria,USA,Kinky,33.6,Yes,Traditional,Masculine,96.1
+Dark,African,UK,UK,Kinky,15.7,No,Streetwear,Masculine,63.6
+Medium,African,China,Nigeria,Curly,31.1,Yes,Modern,Non-Conforming,78.9
+Dark,African,USA,Nigeria,Straight,35.6,Yes,Casual,Androgynous,63.4
+Fair,American,India,USA,Straight,16.0,Yes,Traditional,Non-Conforming,79.4
+Fair,British,China,USA,Kinky,18.2,Yes,Casual,Masculine,67.1
+Very Fair,American,USA,Mexico,Curly,25.3,No,Streetwear,Feminine,12.7
+Fair,Chinese,USA,China,Wavy,25.2,Yes,Modern,Androgynous,45.9
+Brown,American,Nigeria,Nigeria,Straight,23.9,Yes,Traditional,Non-Conforming,69.2
+Very Fair,African,Pakistan,Mexico,Kinky,29.2,Yes,Traditional,Androgynous,69.8
+Medium,American,Mexico,USA,Curly,27.0,Yes,Casual,Androgynous,83.0
+Fair,Chinese,Pakistan,Germany,Straight,23.3,No,Casual,Masculine,57.4
+Brown,Chinese,China,India,Curly,39.1,Yes,Streetwear,Non-Conforming,92.7
+Fair,African,India,Pakistan,Curly,38.5,No,Traditional,Feminine,66.8
+Brown,British,Mexico,Pakistan,Wavy,35.6,Yes,Casual,Androgynous,69.1
+Fair,African,Germany,Mexico,Curly,15.1,Yes,Traditional,Non-Conforming,50.8
+Fair,African,UK,Mexico,Curly,30.0,No,Traditional,Masculine,37.8
+Very Fair,American,Mexico,USA,Straight,35.5,No,Formal,Masculine,58.8
+Medium,British,Mexico,Nigeria,Kinky,35.4,No,Modern,Feminine,60.8
+Dark,African,Pakistan,UK,Curly,27.6,Yes,Streetwear,Non-Conforming,90.9
+Fair,Spanish,Mexico,Nigeria,Straight,30.3,No,Formal,Androgynous,61.0
+Brown,American,Mexico,Nigeria,Kinky,25.6,No,Formal,Masculine,63.8
+Very Fair,Chinese,USA,Nigeria,Curly,33.5,Yes,Traditional,Androgynous,55.5
+Brown,Chinese,USA,USA,Straight,29.5,No,Traditional,Androgynous,66.4
+Fair,Chinese,India,Germany,Curly,24.4,Yes,Formal,Androgynous,84.4
+Brown,American,China,UK,Straight,21.3,Yes,Formal,Feminine,57.6
+Dark,Spanish,Mexico,Germany,Kinky,32.1,Yes,Traditional,Androgynous,100.0
+Very Fair,American,India,UK,Wavy,34.1,Yes,Formal,Masculine,55.5
+Very Fair,Spanish,UK,China,Curly,37.7,No,Modern,Androgynous,43.3
+Medium,British,Mexico,Germany,Kinky,37.3,Yes,Casual,Non-Conforming,83.6
+Medium,Indian,Pakistan,China,Curly,32.0,Yes,Modern,Androgynous,84.9
+Very Fair,American,India,China,Straight,35.5,Yes,Casual,Non-Conforming,46.7
+Very Fair,British,Mexico,India,Straight,37.5,Yes,Casual,Masculine,54.0
+Very Fair,Spanish,China,Nigeria,Kinky,22.8,Yes,Formal,Masculine,48.3
+Very Fair,Chinese,China,Nigeria,Curly,22.7,Yes,Casual,Feminine,59.4
+Brown,Spanish,UK,Mexico,Curly,38.2,Yes,Formal,Masculine,49.3
+Very Fair,Spanish,China,Germany,Curly,38.5,Yes,Streetwear,Feminine,56.1
+Very Fair,Spanish,Nigeria,USA,Kinky,33.4,No,Traditional,Feminine,81.8
+Brown,Chinese,UK,UK,Straight,19.5,No,Streetwear,Masculine,51.3
+Fair,American,USA,UK,Curly,18.5,Yes,Casual,Feminine,41.6
+Fair,African,Nigeria,UK,Wavy,18.3,No,Formal,Masculine,70.5
+Brown,American,Nigeria,Pakistan,Curly,26.1,Yes,Traditional,Masculine,69.9
+Medium,Spanish,China,Nigeria,Wavy,35.1,Yes,Modern,Androgynous,69.6
+Brown,American,China,Mexico,Straight,26.0,Yes,Modern,Androgynous,46.7
+Medium,African,Mexico,Germany,Wavy,34.9,No,Formal,Masculine,67.4
+Brown,American,Germany,China,Kinky,35.9,No,Casual,Non-Conforming,46.5
+Dark,American,Germany,Germany,Kinky,23.8,No,Streetwear,Masculine,48.6
+Very Fair,Indian,Germany,USA,Straight,38.8,No,Traditional,Non-Conforming,69.0
+Dark,British,Pakistan,India,Kinky,28.5,No,Formal,Feminine,68.3
+Medium,African,UK,Pakistan,Curly,18.7,No,Casual,Feminine,47.9
+Fair,British,China,Nigeria,Straight,24.7,Yes,Formal,Masculine,40.6
+Very Fair,Spanish,China,USA,Wavy,34.8,Yes,Formal,Non-Conforming,74.2
+Fair,African,USA,Mexico,Straight,23.3,No,Streetwear,Androgynous,36.9
+Dark,African,Germany,Nigeria,Curly,38.5,No,Casual,Non-Conforming,60.1
+Brown,British,China,USA,Kinky,18.0,Yes,Traditional,Androgynous,83.9
+Brown,African,India,Germany,Curly,28.0,No,Streetwear,Androgynous,85.8
+Fair,Indian,Germany,Germany,Straight,19.4,No,Casual,Feminine,35.9
+Fair,Chinese,India,Germany,Wavy,19.6,No,Casual,Androgynous,68.6
+Dark,British,Mexico,Mexico,Curly,39.1,No,Traditional,Non-Conforming,73.3
+Brown,Chinese,USA,India,Curly,27.1,Yes,Formal,Non-Conforming,77.9
+Dark,Indian,UK,USA,Straight,35.1,Yes,Traditional,Androgynous,82.5
+Brown,British,Mexico,China,Curly,37.8,Yes,Modern,Non-Conforming,76.0
+Medium,Chinese,Nigeria,India,Wavy,23.2,Yes,Formal,Androgynous,96.0
+Fair,American,USA,Pakistan,Curly,35.0,Yes,Casual,Androgynous,40.6
+Brown,American,Pakistan,Germany,Kinky,25.0,No,Casual,Non-Conforming,73.4
+Dark,Indian,China,Nigeria,Wavy,39.7,No,Casual,Feminine,68.6
+Medium,African,Mexico,Germany,Straight,20.0,Yes,Streetwear,Non-Conforming,74.9
+Brown,African,Germany,UK,Kinky,19.7,No,Formal,Masculine,58.8
+Fair,British,India,Nigeria,Straight,19.4,Yes,Formal,Masculine,41.7
+Fair,American,Germany,China,Curly,30.5,Yes,Traditional,Feminine,36.5
+Very Fair,African,Mexico,China,Curly,16.9,No,Formal,Feminine,55.1
+Medium,African,India,Germany,Wavy,16.9,Yes,Casual,Masculine,76.4
+Brown,African,UK,Germany,Wavy,16.2,Yes,Formal,Masculine,55.6
+Brown,American,Nigeria,UK,Kinky,38.4,No,Casual,Non-Conforming,90.3
+Brown,African,India,Germany,Kinky,17.7,No,Modern,Non-Conforming,86.9
+Dark,Chinese,USA,Germany,Straight,27.5,No,Formal,Masculine,54.6
+Fair,American,Mexico,Mexico,Kinky,39.9,Yes,Modern,Feminine,51.4
+Dark,African,Nigeria,Mexico,Wavy,23.0,No,Traditional,Non-Conforming,83.5
+Brown,American,Mexico,UK,Curly,31.9,Yes,Formal,Feminine,70.5
+Brown,Indian,Nigeria,Germany,Curly,39.2,Yes,Modern,Androgynous,100.0
+Brown,Chinese,Pakistan,USA,Curly,34.8,Yes,Modern,Feminine,93.5
+Medium,African,USA,Nigeria,Kinky,16.2,No,Formal,Non-Conforming,57.9
+Brown,Indian,Nigeria,Germany,Wavy,32.7,Yes,Formal,Feminine,90.9
+Brown,American,Nigeria,India,Kinky,24.5,No,Traditional,Feminine,83.6
+Brown,Indian,India,Nigeria,Kinky,20.1,No,Traditional,Masculine,76.8
+Dark,Spanish,China,Germany,Curly,38.9,No,Traditional,Masculine,77.1
+Fair,Spanish,UK,USA,Wavy,20.1,Yes,Modern,Feminine,51.4
+Dark,African,Nigeria,UK,Curly,36.0,Yes,Modern,Feminine,99.0
+Dark,British,UK,India,Kinky,22.3,Yes,Casual,Non-Conforming,67.9
+Dark,African,USA,Germany,Wavy,17.2,Yes,Streetwear,Masculine,61.9
+Very Fair,Spanish,Mexico,Mexico,Curly,27.1,No,Streetwear,Non-Conforming,52.9
+Fair,Spanish,USA,Pakistan,Straight,32.7,Yes,Traditional,Non-Conforming,50.1
+Medium,British,USA,Pakistan,Curly,34.9,Yes,Casual,Non-Conforming,44.3
+Fair,Indian,USA,Germany,Wavy,25.5,Yes,Streetwear,Non-Conforming,59.2
+Medium,American,UK,Germany,Kinky,37.7,Yes,Modern,Masculine,46.7
+Medium,African,USA,Pakistan,Kinky,22.2,No,Traditional,Androgynous,65.9
+Very Fair,British,India,China,Curly,26.1,Yes,Formal,Feminine,37.4
+Very Fair,American,Nigeria,Nigeria,Curly,31.1,Yes,Casual,Masculine,60.3
+Medium,African,Nigeria,Germany,Wavy,37.4,Yes,Streetwear,Feminine,76.0
+Medium,Spanish,India,Pakistan,Wavy,27.0,Yes,Streetwear,Feminine,54.0
+Fair,American,UK,Pakistan,Kinky,35.5,Yes,Formal,Androgynous,55.1
+Dark,Spanish,USA,Nigeria,Kinky,27.2,Yes,Modern,Feminine,55.9
+Dark,American,Mexico,Nigeria,Straight,30.7,No,Modern,Non-Conforming,66.1
+Dark,British,UK,China,Straight,28.7,No,Traditional,Androgynous,36.0
+Dark,British,UK,UK,Curly,22.3,Yes,Traditional,Feminine,55.1
+Fair,Spanish,China,Germany,Wavy,26.7,Yes,Modern,Androgynous,64.9
+Fair,British,Mexico,India,Curly,32.4,Yes,Modern,Feminine,66.8
+Brown,British,Nigeria,India,Straight,19.5,No,Streetwear,Masculine,65.5
+Very Fair,African,India,India,Curly,22.3,No,Formal,Non-Conforming,80.5
+Very Fair,American,Germany,UK,Straight,19.6,Yes,Traditional,Masculine,34.0
+Brown,American,Germany,Pakistan,Wavy,24.4,Yes,Streetwear,Masculine,34.3
+Very Fair,Chinese,UK,India,Wavy,37.6,Yes,Streetwear,Masculine,53.4
+Very Fair,American,China,Mexico,Wavy,34.1,No,Formal,Feminine,26.9
+Very Fair,American,Mexico,UK,Straight,35.5,Yes,Formal,Masculine,59.7
+Brown,American,UK,India,Straight,28.3,No,Streetwear,Androgynous,51.4
+Dark,American,UK,Nigeria,Wavy,26.7,Yes,Streetwear,Non-Conforming,42.4
+Dark,American,Nigeria,USA,Curly,24.3,No,Modern,Non-Conforming,83.5
+Fair,British,China,Mexico,Wavy,27.0,Yes,Formal,Feminine,37.5
+Fair,British,UK,UK,Straight,17.2,No,Traditional,Androgynous,45.6
+Brown,Spanish,Pakistan,USA,Straight,20.9,No,Modern,Androgynous,72.0
+Fair,Spanish,UK,Pakistan,Kinky,16.6,Yes,Formal,Feminine,48.5
+Brown,Spanish,India,UK,Curly,36.6,No,Traditional,Masculine,77.5
+Dark,Indian,USA,India,Wavy,24.7,Yes,Casual,Masculine,69.4
+Very Fair,Spanish,Germany,Mexico,Curly,19.4,Yes,Casual,Non-Conforming,36.8
+Brown,American,India,China,Wavy,33.2,Yes,Streetwear,Non-Conforming,59.5
+Fair,Spanish,Mexico,Pakistan,Curly,35.1,Yes,Traditional,Androgynous,79.4
+Medium,Spanish,Nigeria,Nigeria,Straight,30.8,Yes,Modern,Non-Conforming,70.0
+Fair,Indian,India,Mexico,Straight,19.8,Yes,Modern,Non-Conforming,67.8
+Very Fair,Spanish,Germany,Mexico,Straight,25.3,Yes,Traditional,Feminine,23.7
+Dark,Indian,India,UK,Straight,36.7,No,Traditional,Androgynous,96.3
+Very Fair,Spanish,USA,UK,Wavy,20.0,No,Traditional,Feminine,40.7
+Brown,British,Germany,China,Wavy,25.8,Yes,Formal,Masculine,31.1
+Very Fair,British,Pakistan,India,Kinky,33.8,Yes,Formal,Feminine,67.1
+Brown,Spanish,China,UK,Wavy,22.6,Yes,Traditional,Masculine,67.5
+Fair,American,USA,China,Kinky,23.7,Yes,Streetwear,Masculine,23.8
+Brown,Indian,UK,India,Kinky,16.3,No,Casual,Androgynous,75.7
+Very Fair,American,Germany,Mexico,Kinky,25.7,No,Traditional,Non-Conforming,32.4
+Very Fair,Spanish,Mexico,Pakistan,Wavy,34.5,Yes,Streetwear,Masculine,56.7
+Brown,African,USA,Mexico,Kinky,36.8,No,Traditional,Masculine,51.5
+Very Fair,American,China,Germany,Wavy,36.2,Yes,Formal,Non-Conforming,56.1
+Brown,American,China,Pakistan,Kinky,39.2,No,Streetwear,Masculine,63.2
+Dark,Indian,UK,Mexico,Curly,21.0,No,Casual,Androgynous,61.8
+Fair,British,Pakistan,Mexico,Curly,20.5,Yes,Casual,Non-Conforming,51.9
+Brown,Indian,Nigeria,UK,Curly,24.1,No,Casual,Non-Conforming,99.4
+Medium,American,Mexico,Mexico,Curly,30.6,No,Formal,Masculine,50.0
+Very Fair,Spanish,China,India,Curly,20.7,Yes,Casual,Masculine,57.8
+Fair,Spanish,Pakistan,Mexico,Curly,33.8,No,Traditional,Non-Conforming,65.1
+Dark,African,UK,Nigeria,Kinky,22.5,No,Traditional,Androgynous,69.4
+Medium,African,India,Pakistan,Kinky,39.2,No,Traditional,Feminine,80.2
+Medium,Spanish,Mexico,India,Kinky,18.6,Yes,Traditional,Masculine,86.4
+Brown,African,UK,Mexico,Wavy,39.5,Yes,Casual,Androgynous,60.8
+Very Fair,Chinese,Pakistan,Mexico,Curly,33.2,No,Casual,Masculine,53.9
+Dark,Chinese,Mexico,Germany,Curly,24.6,Yes,Formal,Non-Conforming,100.0
+Fair,Chinese,Pakistan,USA,Curly,31.3,No,Traditional,Masculine,88.0
+Medium,Chinese,UK,Pakistan,Wavy,29.6,Yes,Casual,Masculine,45.5
+Medium,African,Germany,UK,Kinky,24.8,Yes,Casual,Feminine,60.1
+Dark,African,India,China,Wavy,26.8,Yes,Formal,Masculine,64.2
+Fair,British,Nigeria,Germany,Curly,34.1,No,Modern,Androgynous,74.8
+Brown,Indian,Germany,Mexico,Curly,37.0,Yes,Traditional,Feminine,59.4
+Very Fair,American,Mexico,Germany,Wavy,21.9,No,Modern,Feminine,43.1
+Dark,Chinese,Germany,UK,Wavy,16.4,No,Modern,Non-Conforming,69.4
+Brown,Spanish,China,UK,Wavy,39.9,Yes,Casual,Masculine,74.0
+Very Fair,African,Germany,UK,Curly,32.4,No,Streetwear,Masculine,50.4
+Dark,Indian,UK,UK,Straight,15.2,No,Modern,Non-Conforming,74.3
+Fair,Indian,India,USA,Kinky,27.1,No,Streetwear,Non-Conforming,91.6
+Very Fair,Indian,China,Mexico,Wavy,16.8,Yes,Formal,Non-Conforming,59.3
+Medium,American,India,India,Kinky,16.8,Yes,Casual,Masculine,69.1
+Dark,Spanish,Pakistan,Mexico,Curly,34.3,No,Modern,Androgynous,67.8
+Medium,Spanish,UK,Mexico,Wavy,27.5,Yes,Casual,Non-Conforming,39.0
+Very Fair,British,Germany,Nigeria,Straight,19.9,No,Casual,Non-Conforming,19.8
+Medium,Chinese,Pakistan,China,Wavy,38.9,No,Formal,Feminine,61.7
+Medium,British,Nigeria,UK,Curly,27.5,No,Formal,Masculine,68.7
+Fair,African,Pakistan,Nigeria,Wavy,24.7,No,Casual,Masculine,51.9
+Brown,British,China,China,Wavy,26.7,No,Casual,Non-Conforming,44.4
+Fair,American,USA,Nigeria,Curly,35.4,Yes,Formal,Androgynous,44.7
+Brown,Spanish,UK,Mexico,Kinky,29.1,Yes,Casual,Androgynous,52.2
+Very Fair,British,UK,Mexico,Wavy,24.5,Yes,Modern,Feminine,19.1
+Brown,Chinese,Nigeria,China,Wavy,20.1,No,Formal,Feminine,65.3
+Dark,Chinese,Nigeria,India,Kinky,35.9,No,Formal,Androgynous,100.0
+Brown,African,Pakistan,Germany,Wavy,15.5,No,Formal,Androgynous,78.6
+Very Fair,American,Nigeria,USA,Straight,20.5,Yes,Formal,Androgynous,73.1
+Dark,Spanish,India,Mexico,Kinky,23.8,No,Formal,Androgynous,71.2
+Brown,American,Pakistan,USA,Curly,30.1,Yes,Formal,Androgynous,86.4
+Fair,Spanish,China,Pakistan,Curly,16.9,No,Modern,Masculine,48.1
+Medium,American,China,USA,Kinky,32.3,Yes,Casual,Feminine,76.0
+Medium,Spanish,USA,UK,Kinky,23.2,Yes,Modern,Androgynous,65.6
+Fair,Indian,USA,USA,Wavy,26.5,No,Modern,Non-Conforming,60.8
+Fair,Indian,USA,China,Curly,35.5,Yes,Streetwear,Feminine,47.4
+Brown,Chinese,Nigeria,Mexico,Curly,31.1,No,Traditional,Masculine,82.8
+Very Fair,American,Germany,China,Straight,24.2,No,Formal,Masculine,8.1
+Medium,Chinese,Germany,Nigeria,Straight,21.8,Yes,Formal,Non-Conforming,46.9
+Brown,African,India,Pakistan,Curly,29.4,No,Modern,Non-Conforming,79.0
+Medium,British,Germany,China,Kinky,26.4,Yes,Traditional,Masculine,41.5
+Medium,Chinese,Mexico,Nigeria,Kinky,23.8,No,Traditional,Non-Conforming,80.8
+Fair,American,Pakistan,UK,Straight,23.4,No,Streetwear,Masculine,42.5
+Dark,Indian,India,Nigeria,Wavy,29.3,Yes,Formal,Non-Conforming,86.8
+Very Fair,American,China,Germany,Kinky,20.4,No,Streetwear,Androgynous,56.9
+Very Fair,British,UK,India,Wavy,26.6,No,Streetwear,Androgynous,35.5
+Medium,Chinese,UK,Nigeria,Kinky,21.3,Yes,Modern,Masculine,56.3
+Brown,Chinese,USA,Pakistan,Kinky,29.7,Yes,Formal,Feminine,57.5
+Fair,Spanish,UK,Nigeria,Kinky,36.7,Yes,Modern,Masculine,50.1
+Brown,Indian,Mexico,Mexico,Curly,28.2,Yes,Casual,Androgynous,82.4
+Dark,American,Mexico,Nigeria,Curly,36.9,Yes,Traditional,Non-Conforming,81.9
+Very Fair,Spanish,Nigeria,Nigeria,Curly,39.6,No,Streetwear,Androgynous,68.5
+Very Fair,Spanish,Nigeria,China,Curly,28.4,Yes,Casual,Non-Conforming,67.5
+Dark,American,India,Mexico,Wavy,27.3,Yes,Streetwear,Androgynous,60.9
+Brown,American,India,Nigeria,Curly,31.8,Yes,Traditional,Masculine,65.6
+Medium,Spanish,India,UK,Curly,24.6,Yes,Streetwear,Feminine,67.1
+Very Fair,Spanish,Germany,UK,Wavy,29.5,No,Formal,Feminine,35.6
+Medium,African,Nigeria,China,Curly,24.0,No,Modern,Feminine,61.9
+Fair,Spanish,Mexico,UK,Straight,15.9,No,Traditional,Androgynous,74.3
+Dark,African,Germany,USA,Kinky,35.0,Yes,Formal,Masculine,82.0
+Fair,Indian,India,Nigeria,Wavy,27.5,No,Streetwear,Non-Conforming,70.1
+Very Fair,Spanish,India,India,Straight,35.4,Yes,Traditional,Androgynous,76.6
+Very Fair,American,USA,Germany,Straight,22.6,Yes,Casual,Androgynous,33.2
+Fair,American,Mexico,Nigeria,Wavy,26.8,No,Formal,Feminine,42.0
+Medium,Indian,Nigeria,Pakistan,Kinky,34.3,Yes,Casual,Non-Conforming,94.3
+Very Fair,Indian,Pakistan,India,Straight,15.5,Yes,Casual,Androgynous,75.9
+Fair,Spanish,Nigeria,USA,Wavy,21.0,Yes,Modern,Masculine,72.2
+Medium,Chinese,Pakistan,India,Straight,24.0,Yes,Traditional,Masculine,81.2
+Very Fair,British,Pakistan,China,Wavy,20.0,No,Casual,Androgynous,43.9
+Brown,Chinese,UK,China,Straight,28.9,Yes,Modern,Feminine,40.6
+Brown,British,China,India,Straight,33.3,No,Traditional,Non-Conforming,78.6
+Medium,Chinese,USA,UK,Straight,20.1,No,Traditional,Feminine,50.6
+Dark,African,USA,Nigeria,Kinky,25.7,No,Casual,Masculine,48.1
+Very Fair,African,India,Pakistan,Straight,23.3,No,Traditional,Masculine,57.5
+Fair,African,UK,China,Straight,36.5,No,Formal,Androgynous,38.9
+Very Fair,Chinese,USA,UK,Straight,19.6,No,Streetwear,Masculine,40.7
+Very Fair,Indian,India,USA,Curly,38.9,Yes,Formal,Non-Conforming,95.3
+Medium,Chinese,UK,Nigeria,Wavy,36.9,No,Modern,Non-Conforming,53.9
+Dark,American,China,Pakistan,Curly,35.1,No,Casual,Non-Conforming,68.4
+Medium,British,India,India,Wavy,38.4,Yes,Casual,Feminine,65.5
+Dark,Chinese,Nigeria,China,Wavy,21.1,No,Traditional,Androgynous,86.9
+Medium,Spanish,India,Pakistan,Wavy,38.8,Yes,Formal,Androgynous,74.6
+Fair,Spanish,Mexico,Nigeria,Kinky,32.7,No,Casual,Masculine,64.3
+Very Fair,Spanish,Mexico,China,Wavy,27.4,No,Modern,Masculine,39.7
+Fair,American,Nigeria,Germany,Wavy,26.4,No,Traditional,Masculine,60.4
+Medium,British,USA,Germany,Straight,28.2,Yes,Streetwear,Non-Conforming,40.6
+Brown,African,UK,USA,Curly,29.1,No,Casual,Feminine,62.8
+Fair,Chinese,Mexico,UK,Curly,32.9,Yes,Traditional,Androgynous,93.1
+Dark,American,Germany,India,Straight,20.6,Yes,Traditional,Masculine,51.5
+Medium,Spanish,Mexico,India,Wavy,28.8,Yes,Traditional,Masculine,76.4
+Brown,Chinese,India,Pakistan,Straight,29.4,No,Streetwear,Androgynous,70.5
+Dark,American,USA,Germany,Kinky,39.1,No,Modern,Masculine,53.6
+Brown,Indian,USA,China,Curly,28.3,No,Formal,Feminine,45.0
+Dark,African,Pakistan,Nigeria,Curly,37.8,No,Formal,Masculine,71.4
+Brown,British,Pakistan,China,Straight,16.4,No,Casual,Feminine,43.1
+Medium,Indian,China,India,Kinky,34.1,No,Modern,Androgynous,88.8
+Fair,Chinese,Nigeria,Nigeria,Kinky,30.3,Yes,Streetwear,Non-Conforming,89.4
+Fair,Indian,UK,Pakistan,Curly,30.5,Yes,Casual,Non-Conforming,61.6
+Medium,American,Mexico,Mexico,Straight,25.7,No,Streetwear,Masculine,41.6
+Brown,British,Mexico,Mexico,Straight,17.5,No,Traditional,Feminine,46.0
+Brown,African,Mexico,Mexico,Straight,35.4,Yes,Modern,Feminine,71.0
+Brown,American,USA,India,Wavy,16.7,Yes,Casual,Androgynous,60.0
+Brown,African,China,USA,Kinky,32.9,Yes,Formal,Masculine,89.3
+Medium,British,India,UK,Wavy,39.9,Yes,Traditional,Androgynous,77.8
+Medium,African,Pakistan,USA,Wavy,18.8,No,Formal,Androgynous,78.0
+Very Fair,Indian,Pakistan,Mexico,Kinky,27.2,No,Modern,Non-Conforming,63.7
+Medium,American,Mexico,China,Wavy,16.3,No,Traditional,Non-Conforming,61.9
+Very Fair,Indian,Mexico,Germany,Curly,16.8,No,Formal,Non-Conforming,76.3
+Brown,Spanish,USA,Pakistan,Curly,20.7,No,Traditional,Feminine,49.3
+Medium,Spanish,China,China,Kinky,22.7,No,Formal,Feminine,49.6
+Dark,Spanish,Germany,Pakistan,Kinky,28.9,Yes,Streetwear,Masculine,57.3
+Medium,American,USA,Mexico,Wavy,20.1,Yes,Casual,Feminine,21.6
+Medium,Spanish,USA,Pakistan,Wavy,31.9,No,Modern,Androgynous,43.6
+Brown,Indian,Pakistan,Mexico,Wavy,24.7,Yes,Formal,Masculine,62.9
+Medium,Indian,UK,India,Wavy,22.1,Yes,Casual,Androgynous,69.0
+Very Fair,Indian,USA,China,Kinky,28.0,No,Streetwear,Non-Conforming,41.3
+Brown,African,China,UK,Kinky,37.6,No,Traditional,Non-Conforming,93.8
+Fair,American,Germany,UK,Straight,24.0,Yes,Casual,Feminine,34.5
+Medium,Spanish,Mexico,Germany,Kinky,28.1,Yes,Casual,Androgynous,79.5
+Dark,Spanish,India,Germany,Wavy,25.9,Yes,Formal,Masculine,71.9
+Brown,Spanish,Nigeria,Mexico,Straight,23.6,Yes,Casual,Non-Conforming,71.0
+Medium,Chinese,India,UK,Curly,29.6,Yes,Casual,Masculine,76.1
+Medium,Chinese,Mexico,Germany,Kinky,17.6,Yes,Modern,Masculine,81.7
+Medium,Spanish,China,Mexico,Straight,37.7,No,Traditional,Feminine,48.6
+Very Fair,Spanish,USA,UK,Straight,32.0,No,Streetwear,Feminine,30.2
+Very Fair,Indian,Germany,USA,Curly,26.5,Yes,Traditional,Non-Conforming,66.5
+Fair,Indian,Nigeria,India,Straight,40.0,No,Traditional,Androgynous,88.6
+Fair,African,UK,Pakistan,Kinky,18.3,Yes,Modern,Masculine,51.9
+Medium,American,Germany,Mexico,Wavy,28.4,No,Traditional,Non-Conforming,29.4
+Very Fair,Spanish,Nigeria,Mexico,Curly,30.7,Yes,Traditional,Androgynous,70.6
+Dark,American,India,Nigeria,Straight,34.8,Yes,Modern,Masculine,55.9
+Brown,African,Mexico,UK,Wavy,15.7,No,Modern,Feminine,72.2
+Very Fair,Chinese,Nigeria,China,Kinky,19.2,No,Streetwear,Non-Conforming,75.6
+Very Fair,Indian,Mexico,Pakistan,Wavy,22.0,No,Streetwear,Masculine,61.1
+Brown,British,Pakistan,China,Wavy,38.0,No,Casual,Non-Conforming,54.4
+Brown,Spanish,China,UK,Straight,18.1,No,Streetwear,Androgynous,65.0
+Medium,Indian,USA,Germany,Kinky,23.2,No,Casual,Androgynous,65.6
+Brown,American,India,UK,Kinky,27.1,Yes,Formal,Androgynous,81.5
+Brown,American,China,UK,Kinky,22.1,No,Modern,Feminine,60.6
+Fair,American,Nigeria,Mexico,Kinky,35.0,No,Formal,Masculine,57.9
+Medium,American,India,India,Kinky,15.9,No,Casual,Androgynous,78.9
+Very Fair,African,UK,India,Wavy,37.3,No,Modern,Masculine,44.8
+Brown,Chinese,Nigeria,Mexico,Straight,28.5,No,Traditional,Masculine,64.0
+Medium,Spanish,India,USA,Straight,20.5,No,Modern,Non-Conforming,75.9
+Dark,American,India,China,Kinky,19.2,Yes,Casual,Feminine,65.9
+Medium,Spanish,China,Pakistan,Straight,33.8,Yes,Streetwear,Feminine,56.6
+Brown,American,Pakistan,UK,Wavy,28.5,No,Modern,Androgynous,66.6
+Fair,African,Germany,China,Wavy,22.3,No,Streetwear,Masculine,22.8
+Brown,American,Nigeria,India,Wavy,29.5,No,Casual,Feminine,67.4
+Brown,African,India,USA,Wavy,25.0,Yes,Streetwear,Masculine,80.8
+Dark,African,UK,China,Wavy,34.7,Yes,Modern,Androgynous,59.7
+Medium,Chinese,Pakistan,China,Curly,31.4,Yes,Formal,Masculine,68.8
+Medium,African,Germany,UK,Kinky,32.8,No,Casual,Masculine,55.8
+Dark,British,China,Nigeria,Wavy,16.1,Yes,Traditional,Feminine,64.8
+Medium,Spanish,Mexico,Nigeria,Curly,18.1,No,Modern,Masculine,60.7
+Very Fair,Indian,Mexico,Nigeria,Wavy,25.0,No,Casual,Androgynous,62.0
+Brown,British,UK,Germany,Wavy,17.8,No,Modern,Feminine,41.6
+Brown,Chinese,Pakistan,Germany,Kinky,31.8,No,Casual,Masculine,83.0
+Dark,Chinese,Nigeria,Mexico,Curly,26.7,No,Streetwear,Non-Conforming,78.6
+Medium,American,India,Germany,Wavy,15.9,Yes,Formal,Masculine,55.4
+Fair,Spanish,USA,Nigeria,Kinky,18.5,Yes,Casual,Non-Conforming,46.8
+Brown,African,Germany,USA,Kinky,34.6,Yes,Casual,Non-Conforming,79.2
+Dark,Chinese,USA,USA,Straight,31.4,Yes,Modern,Non-Conforming,81.3
+Medium,Indian,India,Germany,Wavy,29.2,Yes,Traditional,Androgynous,83.7
+Medium,British,Pakistan,Germany,Kinky,34.0,No,Traditional,Feminine,64.7
+Brown,Spanish,Germany,India,Wavy,18.1,No,Formal,Masculine,41.0
+Fair,British,Pakistan,Mexico,Wavy,32.7,Yes,Streetwear,Feminine,42.4
+Fair,Indian,USA,Mexico,Curly,20.9,No,Traditional,Feminine,42.7
+Medium,British,Pakistan,Mexico,Straight,19.1,No,Streetwear,Feminine,34.9
+Medium,British,Nigeria,Nigeria,Curly,31.7,No,Modern,Feminine,61.9
+Dark,Spanish,USA,India,Kinky,21.9,No,Casual,Feminine,61.5
+Dark,British,China,China,Curly,24.6,Yes,Traditional,Masculine,56.7
+Brown,British,India,Pakistan,Kinky,27.0,No,Formal,Non-Conforming,71.5
+Medium,Indian,Mexico,Germany,Wavy,19.0,No,Formal,Androgynous,75.9
+Fair,British,India,USA,Kinky,20.3,Yes,Modern,Feminine,65.3
+Fair,British,Mexico,UK,Curly,37.5,Yes,Traditional,Non-Conforming,83.2
+Very Fair,African,USA,UK,Kinky,38.4,Yes,Casual,Masculine,55.0
+Very Fair,Spanish,Mexico,China,Straight,18.9,No,Formal,Feminine,39.2
