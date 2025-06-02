@@ -43,9 +43,8 @@ We emphasize: the model reflects observable **trends**, not **moral truths**, an
 
 ---
 
-## Try It Yourself
+## Try It Yourself [here](https://racism-exposure.streamlit.app)
 
-[Link](https://racism-exposure.streamlit.app)
 A Streamlit web app allows users to experiment with input features and view how the model responds.  
 You can access the deployed app and explore how various combinations affect the predicted exposure score.
 
