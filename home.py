@@ -1,6 +1,6 @@
 import streamlit as st
 import joblib as jb
-import numpy as np
+import pandas as pd
 
 model = jb.load('mymodel.pkl')
 encoders = jb.load('myencoders.pkl')
@@ -10,7 +10,6 @@ st.markdown("<h1 style='text-align: center;'>Racism Exposure Estimator</h1>", un
 st.markdown("<p style='text-align: center;'>Predict how others may treat you based on visible and cultural traits.</p>", unsafe_allow_html=True)
 st.markdown("---")
 
-# Inputs
 skin = st.selectbox('Skin Type', ['Very Fair', 'Fair', 'Medium', 'Brown', 'Dark'])
 accent = st.selectbox('Accent', ['British', 'Spanish', 'African', 'Indian', 'American', 'Chinese'])
 nationality = st.selectbox('Nationality', ['Nigeria', 'China', 'UK', 'Mexico', 'USA', 'India', 'Germany','Pakistan'])
@@ -28,9 +27,7 @@ religious = st.radio('Wearing a Religious Symbol?', ['Yes', 'No'])
 style = st.selectbox('Clothing Style', ['Casual', 'Modern', 'Streetwear', 'Traditional', 'Formal'])
 gender = st.selectbox('Gender Presentation', ['Masculine', 'Feminine', 'Non-Conforming', 'Androgynous'])
 
-# Predict
 if st.button('Predict'):
-    # Encode features
     skin_encoded = encoders['skin_tone'].transform([skin])[0]
     accent_encoded = encoders['accent'].transform([accent])[0]
     nationality_encoded = encoders['nationality'].transform([nationality])[0]
@@ -40,17 +37,25 @@ if st.button('Predict'):
     style_encoded = encoders['fashion_style'].transform([style])[0]
     gender_encoded = encoders['gender_presentation'].transform([gender])[0]
 
-    # Prepare input
     user_input = [[skin_encoded, accent_encoded, nationality_encoded, origin_encoded, hair_encoded, bmi,
                    religious_encoded, style_encoded, gender_encoded]]
 
-    # Predict
     racism_score = model.predict(user_input)[0]
     racism_score = round(racism_score, 2)
 
-    # Display
     st.markdown("---")
     st.warning(f"🧾 Estimated Racism Exposure: **{racism_score}%** chance")
     
-    # Optional visualization
     st.progress(int(racism_score) if racism_score < 100 else 100)
+
+st.markdown('---')
+st.header('Visualize')
+df = pd.read_csv('better.csv')
+option = st.selectbox('Choose option', ['skin_tone', 'accent', 'nationality', 'originated_in', 'hair_texture', 'fashion_style', 'gender_presentation'])
+chart_type = st.radio('Chart type', ['Line Chart', 'Bar Chart'])
+st.markdown("""<br>""",unsafe_allow_html=True)
+compare_racism = df.groupby(option)['racism_exposure_score'].mean()
+if chart_type == 'Bar Chart':
+    st.bar_chart(compare_racism, color='#FFD700',horizontal=True,width=600,use_container_width=False)
+else:
+    st.line_chart(compare_racism, color='#FFD700',width=600,height=250,use_container_width=False)
